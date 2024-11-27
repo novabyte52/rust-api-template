@@ -1,6 +1,6 @@
 [package]
-name = "timetris"
-version = "0.1.0-alpha"
+name = "template"
+version = "1.0.0"
 edition = "2021"
 
 [dependencies]
